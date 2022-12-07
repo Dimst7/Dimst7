@@ -15,6 +15,9 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=dimst7&style=flat-square&color=blue" alt=""/>
+
+
 
 <h1>
   <div id="header" align="center">
